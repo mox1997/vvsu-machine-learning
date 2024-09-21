@@ -1,2 +1,2 @@
 # vvsu-machine-learning
-machine learning
+Григорьев Максим БИН-22-1
